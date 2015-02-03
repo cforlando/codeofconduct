@@ -1,9 +1,9 @@
 codeofconduct
 =============
 
-####Code for America's Code of Conduct
+####Code for Orlando's Code of Conduct
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+The Code for Orlando community expects that Code for Orlando network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
@@ -18,7 +18,7 @@ The Code for America community expects that Code for America network activities,
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+Code for Orlando reserves the right to ask anyone in violation of these policies not to participate in Code for Orlando network activities, events, and digital forums.
 
 ####Code for America's Anti-Harassment Policy
 
